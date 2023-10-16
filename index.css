@@ -9,7 +9,7 @@ html, body {
 #container {
     display: flex;
     flex-direction: column;
-    max-width: 320px;
+    max-width: 280px;
     align-items: center;
     margin: 70px auto;
     
@@ -28,7 +28,7 @@ h1 {
     background: #444059;
     color: #fff;
     padding: 15px 20px;
-    width: 320px;
+    width: 280px;
     height: 200px;
     font-size: 15px;
     resize: none;
@@ -38,7 +38,7 @@ h1 {
     border: none;
     border-radius: 8px;
     background: #28A9F1;
-    padding: 20px 142px;
+    padding: 20px 120px;
     color: #04131C;
     font-family: Josefin Sans;
     font-size: 22px;
@@ -60,7 +60,7 @@ li {
     padding: 15px;
     background-color: #FFF;
     color: #1B1924;
-    width: 320px;
+    width: 280px;
 }
 li:hover {
     background-color: #FFCF96;
