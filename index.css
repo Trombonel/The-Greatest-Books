@@ -12,10 +12,9 @@ html, body {
     max-width: 280px;
     align-items: center;
     margin: 70px auto;
-    
 }
 img {
-    width: 200px; 
+    width: 150px; 
 }
 h1 {
     font-size: 30px;
